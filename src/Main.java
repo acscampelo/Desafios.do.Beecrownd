@@ -1,9 +1,10 @@
-
-import produtoSimples.produtosimples;
+import calculoMedia2.calculandomedia2;
 public class Main {
     public static void main(String[] args) {
-        produtosimples exercicio = new produtosimples();
-        exercicio.resolcao();
+        calculandomedia2 exercio = new calculandomedia2();
+        exercio.resolucao();
+
+
     }
 }
 
