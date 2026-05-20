@@ -1,7 +1,7 @@
-import calculoMedia2.calculandomedia2;
-public class Main {
+import salarioComBonus.calculoDeSalarioComBonus;
+class Main {
     public static void main(String[] args) {
-        calculandomedia2 exercio = new calculandomedia2();
+        calculoDeSalarioComBonus exercio = new calculoDeSalarioComBonus();
         exercio.resolucao();
 
 
