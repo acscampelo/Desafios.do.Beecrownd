@@ -1,7 +1,7 @@
-import salarioComBonus.calculoDeSalarioComBonus;
+import calculoDeArea.calculoDaArea;
 class Main {
     public static void main(String[] args) {
-        calculoDeSalarioComBonus exercio = new calculoDeSalarioComBonus();
+        calculoDaArea exercio = new calculoDaArea();
         exercio.resolucao();
 
 
